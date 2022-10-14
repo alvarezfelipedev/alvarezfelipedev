@@ -3,9 +3,7 @@
 <br />
 
 <div align="center"> 
-  <p> Soy Desarrollador Frontend con 1 año de experiencia, estudiante de Ingeniería Informática. 
-    Actualmente dando mis primero pasos en el Backend para ampliar mi conocimiento.
-    Me considero una persona, con mucha energia y entusiasmo, busco la perfeccion en cada proyecto que realizo. 
+  <p> Soy Desarrollador Frontend con 1 año de experiencia, estudiante de Ingeniería Informática. Actualmente dando mis primeros pasos en el Backend para ampliar mi conocimiento. Me considero una persona, con mucha energía y entusiasmo, busco la perfección en cada proyecto que realizo. 
   </p>
    <a href="https://www.linkedin.com/in/nfelipealvarez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
