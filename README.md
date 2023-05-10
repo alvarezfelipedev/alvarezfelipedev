@@ -1,28 +1,23 @@
-# Hi 👋, I'm Alvarez Felipe
+# Hi 👋, I'm Felipe
 
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/nfelipealvarez/"> <b>LinkedIn</b> </a> •
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=n.felialvarez@gmail.com"> <b>Gmail</b></a> •
+  <a href="https://drive.google.com/file/d/1Damu_dHGabe4GE-45KiixAHmc-tSUgJQ/view?usp=sharing"> <b>CV</b> </a> •
+  <a href="https://felipe-alvarez.notion.site/Felipe-Alvarez-dbca89c84c3a487fa60e440098f1b089"> <b>Portfolio</b> </a>
+</p>
 
-<div> 
-  <p> Soy Desarrollador Frontend, me encuentro buscando mi primer Empleo IT y recientemente comencé la Tecnicatura en Desarrollo Web.
-  </p>
-   <a href="https://www.linkedin.com/in/nfelipealvarez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1P9SoXq596-t6vPdrobrFSwM0id9N61Gf/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Files-4285F4.svg?style=for-the-badge&logo=Files&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+- I am a Frontend Developer
+- I am currently looking for my first job.
+- I'm doing a Web Development Technicature
+- I am learning Java
+- I am from Argentina 
+  
+## Languages, Frameworks and Tools
 
-
-## Habilidades
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,sass,bootstrap" />
-  </p>
-
-
-## Herramientas
-
-  <a>
-    <img src="https://skillicons.dev/icons?i=vscode,git" />
-  </a>
+- <b> React and JavaScript </b>
+- <b> TailwindCSS, </b> Bootstrap, <b> SASS and CSS </b>
+- <b> Figma, </b> Canva
+- <b> Git, GitHub </b> and VSCode
+- <b> Slack, Trello </b> and Notion
+- <b> Agile Methodologies: SCRUM </b>
