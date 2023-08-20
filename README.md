@@ -7,8 +7,8 @@
   <a href="https://felipe-alvarez.notion.site/Felipe-Alvarez-dbca89c84c3a487fa60e440098f1b089"> <b>Portfolio</b> </a>
 </p>
 
-- I am a Frontend Developer
-- I am currently looking for my first job.
+- I am working as QA
+- I manage Frontend Developer tools
 - I'm doing a Web Development Technicature
 - I am learning Java
 - I am from Argentina 
