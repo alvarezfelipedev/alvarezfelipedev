@@ -1,4 +1,4 @@
-# Hi 👋, I'm Felipe
+# Hi, I'm Felipe 👋
 
 <h3 align="center">
   <a href="https://www.linkedin.com/in/alvarezfelipe/"> <b>LinkedIn</b> </a> •
